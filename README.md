@@ -14,20 +14,15 @@ There are many open-source projects on Github that have helped me a lot, which I
 
 <br>
 
-### 🔨 Languages and Tools:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="assets/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="assets/python.svg"></a>
-<a href="https://flutter.dev/" target="_blank"><img align="left" alt="Flutter" height ="37px" src="assets/flutter.svg"></a>  
- 
-
-<br>
-
-
-
 ### 📊 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaoing&show_icons=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaoing&show_icons=true&theme=buefy&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoing&layout=compact&count_private=true)]
 
 </a>
 
 <br>
+
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
