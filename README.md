@@ -9,8 +9,6 @@ There are many open-source projects on Github that have helped me a lot, which I
 
 - 👁️ &nbsp; I've done little computer vision work before
 - 👄 &nbsp; Currently, I am working on a natural language processing task
-- 🎵 &nbsp; Outside of work, I love music, and I have been learning guitar for over a year
-- 🤝 &nbsp; I am glad to meet partners with common interests
 
 <br>
 
